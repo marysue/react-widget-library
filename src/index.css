@@ -2,11 +2,13 @@
 p,
 h1 {
   font-family: 'Piedra', cursive;
+  color: white;
 }
 
 p {
   display: flex;
   justify-content: space-between;
+  background-color: fuchsia;
 }
 
 h1 {
